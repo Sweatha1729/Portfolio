@@ -1,8 +1,5 @@
 
----
-title: "Welcome to my Portfolio"
-date: 2025-01-19
----
+
 **Welcome to My Portfolio!**
 Hi everyone! 👋
 
