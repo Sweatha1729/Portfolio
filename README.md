@@ -3,7 +3,7 @@ Welcome to my personal portfolio! 🎉 This project showcases my work, skills, a
 
 ### Live Demo
 You can view my portfolio online at:
-[(https://sweatha1729.github.io/Portfolio/)]
+[Github Pages](https://sweatha1729.github.io/Portfolio/)
 
 ### Description
 This portfolio includes:
